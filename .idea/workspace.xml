@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f9906f6-0f8e-4eb3-ba03-5fc6296d80dc" name="Default Changelist" comment="&#10;ein weiterer test2ydsfhdg">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="1f9906f6-0f8e-4eb3-ba03-5fc6296d80dc" name="Default Changelist" comment="&#10;ein weiterer test3">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,7 @@
       <updated>1623069885594</updated>
       <workItem from="1623069887367" duration="810000" />
       <workItem from="1623070729178" duration="3062000" />
-      <workItem from="1623073961655" duration="1058000" />
+      <workItem from="1623073961655" duration="1841000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1623070601584</created>
@@ -84,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623074142377</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="&#10;ein weiterer test3">
+      <created>1623153804750</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1623153804750</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +116,7 @@
     <MESSAGE value="&#10;ein weiterer test" />
     <MESSAGE value="&#10;ein weiterer test2" />
     <MESSAGE value="&#10;ein weiterer test2ydsfhdg" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;ein weiterer test2ydsfhdg" />
+    <MESSAGE value="&#10;ein weiterer test3" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;ein weiterer test3" />
   </component>
 </project>
